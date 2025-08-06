@@ -15,3 +15,10 @@ To analyze picker movement and order data from RF scanners or ERP logs to identi
 -	Data interactive dashboard
 ## Dashboard
 ![image alt](https://github.com/lbrownjr75-glitch/Warehouse-Pick-Path/blob/main/Screenshot%202025-08-06%20163705.png)
+## Project Insights
+-	Zone B and D had the highest error rates, suggesting layout or training issues.
+-	Picker ID #003 had the fastest average pick time but slightly lower accuracy.
+-	Peak delays occurred during Mondays and Fridays, indicating staffing issues or order spikes.
+-	Routes with excessive distance walked correlated with longer pick times.
+## Executive Summary
+Through strategic optimization of warehouse picking routes and targeted improvements in high-inefficiency zones, the warehouse stands to achieve notable operational gains. By addressing bottlenecks in Zones B and D and providing focused training for pickers with elevated error rates, the organization can expect a 12% reduction in labor hours and an 18% increase in fulfillment speed. These enhancements to layout and staffing are projected to yield annual savings exceeding $45,000, while simultaneously elevating inventory accuracy and overall service performance.
