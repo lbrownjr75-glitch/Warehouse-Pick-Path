@@ -14,3 +14,4 @@ To analyze picker movement and order data from RF scanners or ERP logs to identi
 -	What is the overall pick accuracy rate?
 -	Data interactive dashboard
 ## Dashboard
+![image alt]([image_url](https://github.com/lbrownjr75-glitch/Warehouse-Pick-Path/blob/main/Screenshot%202025-08-06%20163705.png))
